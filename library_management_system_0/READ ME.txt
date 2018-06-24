@@ -1,0 +1,26 @@
+User
+*Administrator
+	==>  admin
+*Librarian
+	==> lib
+
+*the rest password on the system
+	==>admin
+
+*the Visual Basic Editor Password
+	==> janinejasmin
+
+*Note:
+	Janine Jasmin is my Girlfriend
+
+Credits to admin the one who create the Library System and Library Management System in Ms Access
+for giving the guides in creating the LMS...
+
+features..
+	*advance search function using SQL "LIKE"
+	*imposing penalties on due books...
+	*add/remove books
+	*classify books according to their category and class
+	*lost and replace books..
+	*hide system to system tray
+	*and many more
